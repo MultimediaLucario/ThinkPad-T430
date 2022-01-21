@@ -1,7 +1,7 @@
 # Lenovo ThinkPad T430
 ## SUMMARY
 
-This EFI Folders for running macOS on a Lenovo T430 Laptop using OpenCore 0.6.5(do not update to latest version). Compatible and tested with:  Big Sur
+This EFI Folders for running macOS on a Lenovo ThinkPad T430 using OpenCore 0.6.5 (do not update to latest version). Compatible and tested with: macOS 11 Big Sur
 
 **NOTE**: Read and follow the install instruction carefully and thoroughly!
 
